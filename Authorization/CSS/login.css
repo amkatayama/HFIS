@@ -13,7 +13,7 @@ body{
 
 form{
     width: 350px;
-    height: 450px;
+    height: 470px;
     background-color: white;
     padding: 50px;
     border-radius: 20px;
@@ -55,6 +55,6 @@ h4{
     text-decoration: none;
 }
 
-.signuplink{
+.link-signup{
     text-decoration: none;
 }
