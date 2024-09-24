@@ -13,7 +13,7 @@ body{
 
 form{
     width: 350px;
-    height: 530px;
+    height: 580px;
     background-color: white;
     padding: 50px;
     border-radius: 20px;
@@ -57,4 +57,9 @@ h4{
 
 .link-login{
     text-decoration: none;
+}
+
+.error {
+    text-align: center;
+    margin-top: 35px;
 }
